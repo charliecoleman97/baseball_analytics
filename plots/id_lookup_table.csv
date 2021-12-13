@@ -1,0 +1,733 @@
+,IDfg,Name,Team,G,key_fangraphs,key_mlbam,key_bbref,key_retro
+0,16252,Trea Turner,- - -,148,16252.0,607208.0,turnetr01,turnt001
+1,19611,Vladimir Guerrero Jr.,TOR,161,,,,
+2,11579,Bryce Harper,PHI,141,11579.0,547180.0,harpebr03,harpb003
+3,20123,Juan Soto,WSN,151,20123.0,665742.0,sotoju01,sotoj001
+4,12533,Marcus Semien,TOR,162,12533.0,543760.0,semiema01,semim001
+5,13510,Jose Ramirez,CLE,152,,,,
+6,19709,Fernando Tatis Jr.,SDP,130,,,,
+7,14162,Carlos Correa,HOU,148,14162.0,621043.0,correca01,corrc001
+8,15640,Aaron Judge,NYY,148,15640.0,592450.0,judgeaa01,judga001
+9,19326,Bryan Reynolds,PIT,159,19326.0,668804.0,reynobr01,reynb001
+10,5343,Brandon Crawford,SFG,138,5343.0,543063.0,crawfbr01,crawb001
+11,9241,Starling Marte,- - -,120,9241.0,516782.0,martest01,marts002
+12,15711,Tyler O'Neill,STL,138,15711.0,641933.0,oneilty01,oneit001
+13,17929,Cedric Mullins II,BAL,159,17929.0,656775.0,mullice01,mullc002
+14,12161,Xander Bogaerts,BOS,144,12161.0,593428.0,bogaexa01,bogax001
+15,18882,Brandon Lowe,TBR,149,18882.0,664040.0,lowebr01,loweb001
+16,5417,Jose Altuve,HOU,146,5417.0,514888.0,altuvjo01,altuj001
+17,19755,Shohei Ohtani,LAA,158,,,,
+18,14344,Matt Olson,OAK,156,14344.0,621566.0,olsonma02,olsom001
+19,13301,Max Muncy,LAD,144,13301.0,571970.0,muncyma01,muncm001
+20,9166,Buster Posey,SFG,113,,,,
+21,9218,Paul Goldschmidt,STL,158,9218.0,502671.0,goldspa01,goldp001
+22,19612,Bo Bichette,TOR,159,19612.0,666182.0,bichebo01,bichb001
+23,18345,Kyle Tucker,HOU,140,18345.0,663656.0,tuckeky01,tuckk001
+24,17350,Rafael Devers,BOS,156,17350.0,646240.0,deverra01,dever001
+25,19197,Will Smith,LAD,130,19197.0,669257.0,smithwi05,smitw003
+26,5361,Freddie Freeman,ATL,159,5361.0,518692.0,freemfr01,freef001
+27,13265,Mike Zunino,TBR,109,,,,
+28,17232,Yoan Moncada,CHW,144,,,,
+29,11493,Manny Machado,SDP,153,11493.0,592518.0,machama01,machm001
+30,18036,Jake Cronenworth,SDP,152,18036.0,630105.0,croneja01,cronj001
+31,11739,J.T. Realmuto,PHI,134,,,,
+32,19339,Nicky Lopez,KCR,151,19339.0,670032.0,lopezni01,lopen001
+33,15172,Tim Anderson,CHW,123,15172.0,641313.0,anderti01,andet001
+34,14161,Byron Buxton,MIN,61,14161.0,621439.0,buxtoby01,buxtb001
+35,18401,Ronald Acuna Jr.,ATL,82,,,,
+36,11737,Nick Castellanos,CIN,138,11737.0,592206.0,casteni01,castn001
+37,18360,Austin Riley,ATL,160,18360.0,663586.0,rileyau01,rilea001
+38,16556,Ozzie Albies,ATL,156,16556.0,645277.0,albieoz01,albio001
+39,15986,Willy Adames,- - -,140,15986.0,642715.0,adamewi01,adamw002
+40,5235,Justin Turner,LAD,151,5235.0,457759.0,turneju01,turnj001
+41,9777,Nolan Arenado,STL,157,9777.0,571448.0,arenano01,arenn001
+42,13066,Teoscar Hernandez,TOR,143,,,,
+43,13611,Mookie Betts,LAD,122,13611.0,605141.0,bettsmo01,bettm001
+44,21523,Jonathan India,CIN,150,21523.0,663697.0,indiajo01,indij001
+45,13152,Jorge Polanco,MIN,152,13152.0,593871.0,polanjo01,polaj001
+46,10472,Enrique Hernandez,BOS,134,,,,
+47,11368,Yasmani Grandal,CHW,93,11368.0,518735.0,grandya01,grany001
+48,13624,Corey Seager,LAD,95,13624.0,608369.0,seageco01,seagc001
+49,19556,Yordan Alvarez,HOU,144,,,,
+50,17620,Myles Straw,- - -,158,17620.0,664702.0,strawmy01,stram002
+51,4314,Joey Votto,CIN,129,4314.0,458015.0,vottojo01,vottj001
+52,15429,Kris Bryant,- - -,144,15429.0,592178.0,bryankr01,bryak001
+53,12979,Javier Baez,- - -,138,,,,
+54,12927,Brandon Nimmo,NYM,92,12927.0,607043.0,nimmobr01,nimmb001
+55,17982,Ty France,SEA,152,17982.0,664034.0,francty01,frant002
+56,14128,Joey Gallo,- - -,153,14128.0,608336.0,gallojo01,gallj002
+57,12564,Trevor Story,COL,142,12564.0,596115.0,storytr01,stort001
+58,7304,Salvador Perez,KCR,161,,,,
+59,19198,Yuli Gurriel,HOU,143,19198.0,493329.0,gourryu01,gurry001
+60,18030,Harrison Bader,STL,103,18030.0,664056.0,baderha01,badeh001
+61,15223,Adam Frazier,- - -,155,15223.0,624428.0,fraziad01,fraza001
+62,16505,Matt Chapman,OAK,151,16505.0,656305.0,chapmma01,chapm001
+63,10264,Brandon Belt,SFG,97,10264.0,474832.0,beltbr01,beltb001
+64,19290,Randy Arozarena,TBR,141,19290.0,668227.0,arozara01,arozr001
+65,19352,Sean Murphy,OAK,119,,,,
+66,13590,Jesse Winker,CIN,110,13590.0,608385.0,winkeje01,winkj002
+67,20043,Luis Robert,CHW,68,20043.0,673357.0,roberlu01,robel002
+68,13621,Jeimer Candelario,DET,149,13621.0,600869.0,candeje01,candj002
+69,18314,Dansby Swanson,ATL,160,18314.0,621020.0,swansda01,swand001
+70,11281,Whit Merrifield,KCR,162,11281.0,593160.0,merriwh01,merrw001
+71,16478,Kyle Schwarber,- - -,113,16478.0,656941.0,schwaky01,schwk001
+72,13757,Chris Taylor,LAD,148,13757.0,621035.0,tayloch03,taylc001
+73,15491,J.P. Crawford,SEA,160,,,,
+74,9256,A.J. Pollock,LAD,117,9256.0,572041.0,polloaj01,polla001
+75,19251,Pete Alonso,NYM,152,19251.0,624413.0,alonspe01,alonp001
+76,6153,Eduardo Escobar,- - -,146,6153.0,500871.0,escobed01,escoe001
+77,13613,Ketel Marte,ARI,90,13613.0,606466.0,marteke01,martk001
+78,6184,J.D. Martinez,BOS,148,,,,
+79,15676,Jose Abreu,CHW,152,15676.0,547989.0,abreujo02,abrej003
+80,5760,Avisail Garcia,MIL,135,,,,
+81,12532,Kolten Wong,MIL,116,12532.0,543939.0,wongko01,wongk001
+82,10059,Max Stassi,LAA,87,,,,
+83,19287,Adolis Garcia,TEX,149,19287.0,666969.0,garciad02,garca005
+84,18607,Jared Walsh,LAA,144,18607.0,665120.0,walshja01,walsj001
+85,14274,Mitch Haniger,SEA,157,14274.0,571745.0,hanigmi01,hanim001
+86,20126,Dylan Carlson,STL,149,20126.0,666185.0,carlsdy01,carld002
+87,13338,Omar Narvaez,MIL,123,,,,
+88,7802,Miguel Rojas,MIA,132,7802.0,500743.0,rojasmi02,rojam002
+89,14894,Tony Kemp,OAK,131,14894.0,643393.0,kempto01,kempt001
+90,16622,Luis Urias,MIL,150,,,,
+91,5254,Robbie Grossman,DET,156,5254.0,543257.0,grossro01,grosr001
+92,12916,Francisco Lindor,NYM,125,12916.0,596019.0,lindofr01,lindf001
+93,15518,Amed Rosario,CLE,141,15518.0,642708.0,rosaram01,rosaa003
+94,4949,Giancarlo Stanton,NYY,139,4949.0,519317.0,stantmi03,stanm004
+95,11445,Mark Canha,OAK,141,11445.0,592192.0,canhama01,canhm001
+96,13853,Joey Wendle,TBR,136,13853.0,621563.0,wendljo01,wendj002
+97,13723,Jacob Stallings,PIT,112,,,,
+98,9929,Darin Ruf,SFG,117,9929.0,573131.0,rufda01,ruf-d001
+99,23667,Wander Franco,TBR,70,23667.0,677551.0,francwa01,franw002
+100,5933,Jean Segura,PHI,131,5933.0,516416.0,segurje01,seguj002
+101,15112,Ryan McMahon,COL,151,15112.0,641857.0,mcmahry01,mcmar001
+102,9785,Kyle Seager,SEA,159,9785.0,572122.0,seageky01,seagk001
+103,11038,Kevin Kiermaier,TBR,122,11038.0,595281.0,kiermke01,kierk001
+104,12856,George Springer,TOR,78,12856.0,543807.0,springe01,sprig001
+105,10950,Adam Duvall,- - -,146,10950.0,594807.0,duvalad01,duvaa001
+106,19363,Austin Hays,BAL,131,19363.0,669720.0,haysau01,haysa001
+107,9874,DJ LeMahieu,NYY,150,9874.0,518934.0,lemahdj01,lemad001
+108,10155,Mike Trout,LAA,36,10155.0,545361.0,troutmi01,troum001
+109,12546,C.J. Cron,COL,142,,,,
+110,16472,Rhys Hoskins,PHI,107,16472.0,656555.0,hoskirh01,hoskr001
+111,13602,Patrick Wisdom,CHC,106,13602.0,621550.0,wisdopa01,wisdp001
+112,19470,Tommy Edman,STL,159,19470.0,669242.0,edmanto01,edmat001
+113,16512,Isiah Kiner-Falefa,TEX,158,16512.0,643396.0,kineris01,kinei001
+114,5038,Josh Donaldson,MIN,135,5038.0,518626.0,donaljo02,donaj001
+115,19997,Santiago Espinal,TOR,92,19997.0,669289.0,espinsa01,espis001
+116,14854,Mike Yastrzemski,SFG,139,14854.0,573262.0,yastrmi01,yastm001
+117,10556,Cesar Hernandez,- - -,149,,,,
+118,15351,Frank Schwindel,- - -,64,15351.0,643524.0,schwifr01,schwf001
+119,15161,Mitch Garver,MIN,68,15161.0,641598.0,garvemi01,garvm001
+120,4106,Michael Brantley,HOU,121,4106.0,488726.0,brantmi02,branm003
+121,11609,Willson Contreras,CHC,128,11609.0,575929.0,contrwi01,contw001
+122,17719,Steven Duggar,SFG,107,17719.0,621453.0,duggast01,duggs001
+123,17901,Andrew Benintendi,KCR,134,17901.0,643217.0,beninan01,benia002
+124,17128,Ramon Laureano,OAK,88,,,,
+125,18564,Trent Grisham,SDP,132,18564.0,663757.0,grishtr01,grist001
+126,10071,Jonathan Villar,NYM,142,10071.0,542340.0,villajo01,villj001
+127,2434,Nelson Cruz,- - -,140,2434.0,443558.0,cruzne02,cruzn002
+128,17988,Tyler Stephenson,CIN,132,17988.0,663886.0,stephty01,stept001
+129,17678,Alex Bregman,HOU,91,17678.0,608324.0,bregmal01,brega001
+130,17027,Alex Verdugo,BOS,146,17027.0,657077.0,verdual01,verda001
+131,15672,Austin Meadows,TBR,142,15672.0,640457.0,meadoau01,meada001
+132,19918,Daulton Varsho,ARI,95,19918.0,662139.0,varshda01,varsd001
+133,19734,Josh Rojas,ARI,139,19734.0,668942.0,rojasjo01,rojaj001
+134,5913,Leury Garcia,CHW,126,,,,
+135,22168,Akil Baddoo,DET,124,22168.0,668731.0,baddoak01,badda001
+136,19599,Chas McCormick,HOU,108,19599.0,676801.0,mccorch01,mccoc001
+137,12144,Max Kepler,MIN,121,12144.0,596146.0,keplema01,keplm001
+138,11489,Michael A. Taylor,KCR,142,,,,
+139,15464,Hunter Renfroe,BOS,144,15464.0,592669.0,renfrhu01,renfh001
+140,16153,Austin Slater,SFG,129,16153.0,596103.0,slateau01,slata001
+141,16578,Yandy Diaz,TBR,134,16578.0,650490.0,diazya01,diazy001
+142,18568,Luis Arraez,MIN,121,18568.0,650333.0,arraelu01,arral001
+143,9077,Lorenzo Cain,MIL,78,9077.0,456715.0,cainlo01,cainl001
+144,14735,Brett Phillips,TBR,119,14735.0,621433.0,phillbr02,philb002
+145,9368,Evan Longoria,SFG,81,9368.0,446334.0,longoev01,longe001
+146,13620,Carson Kelly,ARI,98,,,,
+147,6310,Alcides Escobar,WSN,75,6310.0,444876.0,escobal02,escoa003
+148,16997,Gleyber Torres,NYY,127,16997.0,650402.0,torregl01,torrg001
+149,10323,Rafael Ortega,CHC,103,10323.0,542364.0,ortegra01,orter001
+150,16219,J.D. Davis,NYM,73,,,,
+151,18126,LaMonte Wade Jr.,SFG,109,,,,
+152,17907,Brendan Rodgers,COL,102,17907.0,663898.0,rodgebr02,rodgb002
+153,3473,Anthony Rizzo,- - -,141,3473.0,519203.0,rizzoan01,rizza001
+154,18795,Ramon Urias,BAL,85,,,,
+155,11680,Elias Diaz,COL,106,,,,
+156,19566,Nathaniel Lowe,TEX,157,19566.0,663993.0,lowena01,lowen001
+157,17022,Edmundo Sosa,STL,113,17022.0,624641.0,sosaed01,sosae001
+158,14813,Kyle Farmer,CIN,147,14813.0,571657.0,farmeky01,farmk001
+159,20454,Jazz Chisholm Jr.,MIA,124,,,,
+160,9627,Yan Gomes,- - -,103,,,,
+161,6609,Freddy Galvis,- - -,104,6609.0,520471.0,galvifr01,galvf001
+162,18015,Paul DeJong,STL,113,18015.0,657557.0,dejonpa01,dejop001
+163,19238,Lourdes Gurriel Jr.,TOR,141,,,,
+164,13675,Tyrone Taylor,MIL,93,13675.0,621438.0,tayloty01,taylt002
+165,7859,Charlie Blackmon,COL,150,7859.0,453568.0,blackch02,blacc001
+166,11265,Jonathan Schoop,DET,156,11265.0,570731.0,schoojo01,schoj001
+167,8202,Josh Harrison,- - -,138,8202.0,543281.0,harrijo05,harrj002
+168,13836,Matt Duffy,CHC,97,13836.0,622110.0,duffyma01,duffm002
+169,11477,Christian Yelich,MIL,117,11477.0,592885.0,yelicch01,yelic001
+170,2829,Manny Pina,MIL,75,,,,
+171,11442,Gary Sanchez,NYY,117,,,,
+172,2967,Tommy Pham,SDP,155,2967.0,502054.0,phamth01,phamt001
+173,18577,Ke'Bryan Hayes,PIT,96,18577.0,663647.0,hayeske01,hayek001
+174,16572,Connor Joe,COL,63,16572.0,656582.0,joeco01,joe-c001
+175,13145,Josh Bell,WSN,144,13145.0,605137.0,belljo02,bellj005
+176,13359,Tyler Naquin,CIN,127,13359.0,571980.0,naquity01,naqut001
+177,18373,Ryan Mountcastle,BAL,144,18373.0,663624.0,mountry01,mounr001
+178,16535,Danny Jansen,TOR,70,,,,
+179,10047,Wil Myers,SDP,146,10047.0,571976.0,myerswi01,myerw001
+180,16403,Francisco Mejia,TBR,84,,,,
+181,14712,Manuel Margot,TBR,125,14712.0,622534.0,margoma01,margm001
+182,9927,Brett Gardner,NYY,140,9927.0,458731.0,gardnbr01,gardb001
+183,14566,Franmil Reyes,CLE,115,14566.0,614177.0,reyesfr01,reyef001
+184,20521,Nick Madrigal,CHW,54,20521.0,663611.0,madrini01,madrn001
+185,17919,Ian Happ,CHC,148,17919.0,664023.0,happia01,happi001
+186,18289,Brian Anderson,MIA,67,18289.0,605119.0,anderbr06,andeb006
+187,15674,Reese McGuire,TOR,78,,,,
+188,15082,Adam Engel,CHW,39,15082.0,641553.0,engelad01,engea001
+189,11342,Jesus Aguilar,MIA,131,,,,
+190,5827,Wilmer Flores,SFG,139,5827.0,527038.0,florewi01,florw001
+191,9847,Andrew McCutchen,PHI,144,9847.0,457705.0,mccutan01,mccua001
+192,16434,Christian Arroyo,BOS,57,16434.0,624414.0,arroych01,arroc001
+193,12160,Ben Gamel,- - -,122,12160.0,592325.0,gamelbe01,gameb001
+194,19844,Abraham Toro,- - -,95,19844.0,647351.0,toroab01,toroa001
+195,10200,Tucker Barnhart,CIN,116,10200.0,571466.0,barnhtu01,barnt001
+196,15279,Garrett Cooper,MIA,71,15279.0,643265.0,coopega03,coopg002
+197,8722,Jason Castro,HOU,66,,,,
+198,20308,Jake Meyers,HOU,49,20308.0,676694.0,meyerja02,meyej002
+199,18171,Seth Brown,OAK,111,18171.0,664913.0,brownse01,brows003
+200,8623,Donovan Solano,SFG,101,8623.0,456781.0,solando01,solad001
+201,2136,David Peralta,ARI,150,2136.0,444482.0,peralda01,perad001
+202,11476,Odubel Herrera,PHI,124,,,,
+203,19294,Nick Solak,TEX,127,19294.0,669256.0,solakni01,solan001
+204,16221,Bradley Zimmer,CLE,99,16221.0,605548.0,zimmebr01,zimmb001
+205,8709,Elvis Andrus,OAK,146,8709.0,462101.0,andruel01,andre001
+206,16930,Jonah Heim,TEX,82,,,,
+207,19452,Jake Rogers,DET,38,,,,
+208,12775,Brad Miller,PHI,140,12775.0,543543.0,millebr02,millb002
+209,18819,Andy Ibanez,TEX,76,18819.0,628451.0,ibanean01,ibana001
+210,14111,Eric Haase,DET,98,14111.0,606992.0,haaseer01,haase001
+211,10681,Gio Urshela,NYY,116,10681.0,570482.0,urshegi01,urshg001
+212,15941,Austin Nola,SDP,56,15941.0,543592.0,nolaau01,nolaa002
+213,10231,Jose Iglesias,- - -,137,10231.0,578428.0,iglesjo01,iglej001
+214,19955,Gavin Lux,LAD,102,19955.0,666158.0,luxga01,lux-g001
+215,20202,Brandon Marsh,LAA,70,20202.0,669016.0,marshbr02,marsb002
+216,7007,Yadier Molina,STL,121,7007.0,425877.0,molinya01,moliy001
+217,13499,Tom Murphy,SEA,97,,,,
+218,16426,Thairo Estrada,SFG,52,16426.0,642731.0,estrath01,estrt001
+219,5452,Ji-Man Choi,TBR,83,5452.0,596847.0,choiji01,choij001
+220,12155,Eddie Rosario,- - -,111,12155.0,592696.0,rosared01,rosae001
+221,15937,Aledmys Diaz,HOU,84,15937.0,649557.0,diazal02,diaza003
+222,4418,Jed Lowrie,OAK,139,4418.0,476704.0,lowrije01,lowrj001
+223,12325,Jace Peterson,MIL,94,12325.0,607054.0,peterja01,petej002
+224,15730,Tyler Wade,NYY,103,15730.0,642180.0,wadety01,wadet002
+225,13755,Tomas Nido,NYM,58,,,,
+226,19600,Bryan De La Cruz,MIA,58,19600.0,650559.0,delacbr01,delab001
+227,17710,Matt Beaty,LAD,120,17710.0,607461.0,beatyma01,beatm001
+228,21479,Nico Hoerner,CHC,44,21479.0,663538.0,hoernni01,hoern001
+229,10762,Corey Dickerson,- - -,109,10762.0,572816.0,dickeco01,dickc002
+230,16376,Michael Conforto,NYM,125,16376.0,624424.0,confomi01,confm001
+231,13743,Max Fried,ATL,32,,,,
+232,12158,Austin Barnes,LAD,77,12158.0,605131.0,barneau01,barna001
+233,19950,Andres Gimenez,CLE,68,,,,
+234,19966,Bobby Dalbec,BOS,133,19966.0,666915.0,dalbebo01,dalbb001
+235,22581,Alejandro Kirk,TOR,60,,,,
+236,12861,Anthony Rendon,LAA,58,12861.0,543685.0,rendoan01,renda001
+237,12434,Kevin Pillar,NYM,124,12434.0,607680.0,pillake01,pillk001
+238,15038,German Marquez,COL,32,,,,
+239,19913,Jesus Sanchez,MIA,64,,,,
+240,19977,Tres Barrera,WSN,30,,,,
+241,10954,Jacob deGrom,NYM,15,,,,
+242,15149,Trey Mancini,BAL,147,15149.0,641820.0,mancitr01,manct001
+243,21454,Lars Nootbaar,STL,58,21454.0,663457.0,nootbla01,nootl001
+244,11899,Joc Pederson,- - -,137,11899.0,592626.0,pederjo01,pedej001
+245,13769,Adalberto Mondesi,KCR,35,13769.0,609275.0,mondera02,mondr003
+246,14551,Anthony Santander,BAL,110,14551.0,623993.0,santaan02,santa003
+247,12552,Eugenio Suarez,CIN,145,,,,
+248,11902,Hanser Alberto,KCR,103,11902.0,593643.0,alberha01,albeh001
+249,3298,Charlie Culberson,TEX,91,3298.0,518586.0,culbech01,culbc001
+250,7739,Travis d'Arnaud,ATL,60,,,,
+251,24618,Ryan Jeffers,MIN,85,,,,
+252,16375,Oscar Mercado,CLE,72,16375.0,640458.0,mercaos01,merco003
+253,12282,Rougned Odor,NYY,102,12282.0,596059.0,odorro01,odorr001
+254,15402,Jack Mayfield,- - -,87,15402.0,608686.0,mayfija01,mayfj001
+255,5517,Kyle Higashioka,NYY,67,,,,
+256,11400,Ronald Torreyes,PHI,112,11400.0,591720.0,torrero01,torrr001
+257,12180,Jorge Alfaro,MIA,92,12180.0,595751.0,alfarjo01,alfaj002
+258,27506,Ha-seong Kim,SDP,117,27506.0,673490.0,kimha01,kim-h002
+259,16725,Jose Trevino,TEX,89,,,,
+260,9952,Trayce Thompson,CHC,15,9952.0,572204.0,thomptr01,thomt002
+261,10030,Chris Owings,COL,21,10030.0,572008.0,owingch01,owinc001
+262,16623,Greg Allen,NYY,15,16623.0,656185.0,allengr01,alleg002
+263,21558,Matt Vierling,PHI,34,21558.0,663837.0,vierlma01,vierm001
+264,9433,Dustin Garneau,DET,20,,,,
+265,16424,Jordan Luplow,- - -,62,16424.0,656669.0,luplojo01,luplj001
+266,3142,Robinson Chirinos,CHC,45,,,,
+267,17548,Taylor Ward,LAA,65,17548.0,621493.0,wardta01,wardt002
+268,17954,Sam Hilliard,COL,81,17954.0,656541.0,hillisa01,hills005
+269,16939,Lane Thomas,- - -,77,16939.0,657041.0,thomala02,thoml002
+270,13807,Kevin Plawecki,BOS,64,,,,
+271,19260,Jake Fraley,SEA,78,19260.0,641584.0,fraleja01,fralj001
+272,14320,Wilmer Difo,PIT,116,14320.0,594694.0,difowi01,difow001
+273,12371,Tommy La Stella,SFG,76,12371.0,600303.0,lasteto01,lastt001
+274,21635,Nick Maton,PHI,52,21635.0,665155.0,matonni01,maton001
+275,15055,Dom Nunez,COL,81,,,,
+276,15794,Yonathan Daza,COL,107,15794.0,602074.0,dazayo01,dazay001
+277,15362,Jeff McNeil,NYM,120,15362.0,643446.0,mcneije01,mcnej002
+278,17273,Jorge Mateo,- - -,89,17273.0,622761.0,mateojo01,matej003
+279,14691,Harold Castro,DET,106,14691.0,605612.0,castrha01,casth001
+280,19262,Garrett Hampson,COL,147,19262.0,641658.0,hampsga01,hampg001
+281,18721,Guillermo Heredia,ATL,120,18721.0,628338.0,heredgu01,hereg002
+282,12510,Curt Casali,SFG,77,,,,
+283,9774,Christian Vazquez,BOS,138,,,,
+284,12859,James McCann,NYM,121,12859.0,543510.0,mccanja02,mccaj001
+285,12981,Cam Gallagher,KCR,48,,,,
+286,22458,Taylor Walls,TBR,54,22458.0,670764.0,wallsta01,wallt003
+287,19432,Yonny Hernandez,TEX,43,19432.0,660634.0,hernayo02,herny003
+288,19901,Gavin Sheets,CHW,54,19901.0,657757.0,sheetga01,sheeg001
+289,12164,Miguel Sano,MIN,135,,,,
+290,21614,Kyle Isbel,KCR,28,21614.0,664728.0,isbelky01,isbek001
+291,14811,Luke Voit,NYY,68,14811.0,572228.0,voitlu01,voitl001
+292,4220,Ryan Zimmerman,WSN,110,4220.0,475582.0,zimmery01,zimmr001
+293,13768,Travis Jankowski,PHI,76,13768.0,608671.0,jankotr01,jankt001
+294,15191,Chad Pinder,OAK,75,15191.0,640461.0,pindech01,pindc001
+295,4579,Starlin Castro,WSN,87,4579.0,516770.0,castrst01,casts001
+296,10243,Randal Grichuk,TOR,149,10243.0,545341.0,grichra01,gricr001
+297,14350,Raimel Tapia,COL,133,14350.0,606132.0,tapiara01,tapir001
+298,17766,D.J. Stewart,BAL,100,17766.0,621466.0,stewadj01,stewd002
+299,14773,Yu Chang,CLE,89,14773.0,644374.0,changyu01,chany001
+300,16357,Pablo Reyes,MIL,53,16357.0,622569.0,reyespa01,reyep001
+301,16451,Luis Guillorme,NYM,69,16451.0,641645.0,guilllu01,guill001
+302,20468,Huascar Ynoa,ATL,18,,,,
+303,12972,Joe Ross,WSN,22,,,,
+304,14765,Julio Urias,LAD,32,,,,
+305,21538,Nick Fortes,MIA,14,,,,
+306,19151,Estevan Florial,NYY,11,19151.0,664314.0,flories01,flore001
+307,17452,Jose Siri,HOU,21,17452.0,642350.0,sirijo01,sirij001
+308,20332,Luis Gonzalez,CHW,6,,,,
+309,12547,John Hicks,TEX,10,,,,
+310,13355,Luke Maile,MIL,15,,,,
+311,22275,Jake Burger,CHW,15,22275.0,669394.0,burgeja01,burgj001
+312,11379,Delino DeShields,CIN,25,11379.0,592261.0,deshide02,deshd002
+313,22799,Geraldo Perdomo,ARI,11,22799.0,672695.0,perdoge01,perdg001
+314,11615,Brandon Drury,NYM,51,11615.0,592273.0,drurybr01,drurb001
+315,19610,Keibert Ruiz,- - -,29,,,,
+316,17278,Bobby Bradley,CLE,74,17278.0,656252.0,bradlbo01,bradb002
+317,14140,Jose Rondon,STL,63,,,,
+318,19892,Pavin Smith,ARI,145,19892.0,656976.0,smithpa04,smitp002
+319,15905,Luis Torrens,SEA,108,15905.0,620443.0,torrelu01,torrl001
+320,19508,Kyle Lewis,SEA,36,19508.0,641786.0,lewisky01,lewik001
+321,20325,Alex Kirilloff,MIN,59,20325.0,666135.0,kirilal01,kiria001
+322,21622,Jake McCarthy,ARI,24,21622.0,664983.0,mccarja02,mccaj003
+323,26197,Andrew Vaughn,CHW,127,26197.0,683734.0,vaughan01,vauga001
+324,5222,Justin Upton,LAA,89,5222.0,457708.0,uptonju01,uptoj001
+325,16947,Derek Hill,DET,49,16947.0,656537.0,hillde01,hilld002
+326,15487,Victor Reyes,DET,76,15487.0,622682.0,reyesvi01,reyev001
+327,13419,Christian Walker,ARI,115,13419.0,572233.0,walkech02,walkc002
+328,12758,Breyvic Valera,TOR,39,12758.0,591971.0,valerbr01,valeb001
+329,19348,DJ Peters,- - -,70,19348.0,656847.0,peterdj01,peted004
+330,15654,Billy McKinney,- - -,116,15654.0,641856.0,mckinbi01,mckib001
+331,16417,Sergio Alcantara,CHC,89,,,,
+332,4940,Jason Heyward,CHC,104,4940.0,518792.0,heywaja01,heywj001
+333,20352,Ernie Clement,CLE,40,20352.0,676391.0,clemeer01,cleme002
+334,17992,David Fletcher,LAA,157,17992.0,664058.0,fletcda02,fletd002
+335,10199,Billy Hamilton,CHW,71,10199.0,571740.0,hamilbi02,hamib001
+336,17479,Jack Flaherty,STL,17,,,,
+337,17696,Kevin Newman,PIT,148,17696.0,621028.0,newmake01,newmk001
+338,21318,Tylor Megill,NYM,18,,,,
+339,19316,Eric Lauer,MIL,26,,,,
+340,4930,Jon Lester,- - -,30,,,,
+341,8779,Wade Miley,CIN,30,,,,
+342,17995,Logan Webb,SFG,28,,,,
+343,16149,Aaron Nola,PHI,33,,,,
+344,5524,Madison Bumgarner,ARI,28,,,,
+345,20493,Seth Beer,ARI,5,20493.0,666179.0,beerse01,beers001
+346,17893,Tyler Nevin,BAL,6,17893.0,663527.0,nevinty01,nevit001
+347,19896,Connor Wong,BOS,6,,,,
+348,21560,Alfonso Rivas III,CHC,18,21560.0,663845.0,rivasal01,rivaa001
+349,17750,Max Schrock,CIN,53,17750.0,621011.0,schroma01,schrm001
+350,18063,Kyle Garlick,MIN,36,18063.0,664247.0,garliky01,garlk001
+351,19334,Yadiel Hernandez,WSN,112,,,,
+352,17484,Eloy Jimenez,CHW,55,,,,
+353,16285,Michael Hermosillo,CHC,16,16285.0,641684.0,hermomi01,hermm001
+354,8418,Ehire Adrianza,ATL,109,8418.0,501303.0,adriaeh01,adrie001
+355,12649,Alex Dickerson,SFG,111,12649.0,543105.0,dickeal01,dicka001
+356,7476,Alex Avila,WSN,34,7476.0,488671.0,avilaal01,avila001
+357,12858,Brian Goodwin,CHW,72,12858.0,571718.0,goodwbr01,goodb001
+358,27459,Yoshi Tsutsugo,- - -,81,27459.0,660294.0,tsutsyo01,tsuty001
+359,21501,Trevor Larnach,MIN,79,21501.0,663616.0,larnatr01,larnt001
+360,17062,Grayson Greiner,DET,31,,,,
+361,13593,Jose Peraza,NYM,64,,,,
+362,12037,Jon Berti,MIA,85,12037.0,542932.0,bertijo01,bertj001
+363,18042,Dylan Moore,SEA,126,18042.0,664238.0,mooredy01,moord002
+364,13546,Roman Quinn,PHI,28,13546.0,596451.0,quinnro01,quinr003
+365,17277,Ranger Suarez,PHI,39,,,,
+366,18889,Danny Mendick,CHW,71,18889.0,664901.0,mendida01,mendd002
+367,3184,David Price,LAD,39,,,,
+368,6887,Martin Maldonado,HOU,125,,,,
+369,20339,Matt Peacock,ARI,35,,,,
+370,20287,Ben Rortvedt,MIN,39,,,,
+371,2036,Clayton Kershaw,LAD,24,,,,
+372,19291,Zac Gallen,ARI,23,,,,
+373,14107,Kevin Gausman,SFG,34,,,,
+374,4153,Jake Arrieta,- - -,25,,,,
+375,12779,Andy Burns,LAD,9,12779.0,542992.0,burnsan01,burna003
+376,19521,Andy Young,ARI,58,19521.0,670370.0,youngan02,youna003
+377,7870,Jonathan Lucroy,- - -,7,,,,
+378,18288,Austin Dean,STL,22,18288.0,621573.0,deanau01,deana001
+379,17423,Yermin Mercedes,CHW,68,,,,
+380,14130,Daniel Vogelbach,MIL,93,,,,
+381,14329,Anthony Alford,PIT,49,14329.0,546990.0,alforan01,alfoa002
+382,15482,Aristides Aquino,CIN,84,15482.0,606157.0,aquinar01,aquia001
+383,20220,Jo Adell,LAA,35,20220.0,666176.0,adelljo01,adelj001
+384,19698,Edward Olivares,KCR,39,19698.0,658668.0,olivaed02,olive001
+385,10953,Phil Gosselin,LAA,104,,,,
+386,13329,Jake Lamb,- - -,55,13329.0,571875.0,lambja01,lambj001
+387,3648,Rene Rivera,- - -,25,,,,
+388,16337,Nick Gordon,MIN,73,16337.0,624503.0,gordoni01,gordn001
+389,14636,Webster Rivas,SDP,24,,,,
+390,19643,Daniel Johnson,CLE,30,19643.0,669288.0,johnsda07,johnd006
+391,18027,Hoy Park,- - -,45,18027.0,660829.0,parkho01,parkh001
+392,5297,Aaron Hicks,NYY,32,5297.0,543305.0,hicksaa01,hicka001
+393,20540,Jose Devers,MIA,21,,,,
+394,5000,Stephen Vogt,- - -,78,5000.0,519390.0,vogtst01,vogts001
+395,21562,Romy Gonzalez,CHW,10,21562.0,663853.0,gonzaro01,gonzr003
+396,18887,Seby Zavala,CHW,37,,,,
+397,4922,Ender Inciarte,ATL,52,4922.0,542255.0,inciaen01,incie001
+398,21534,Cal Raleigh,SEA,47,,,,
+399,12976,Austin Hedges,CLE,88,,,,
+400,18900,Leody Taveras,TEX,49,18900.0,665750.0,taverle01,tavel001
+401,19388,Tony Gonsolin,LAD,17,,,,
+402,23796,Ryan Weathers,SDP,32,,,,
+403,16977,Trevor Williams,- - -,23,,,,
+404,15689,Luis Castillo,CIN,33,,,,
+405,10123,Kyle Gibson,- - -,31,,,,
+406,22487,Johan Oviedo,STL,14,,,,
+407,19361,Corbin Burnes,MIL,28,,,,
+408,13183,Zach Davies,CHC,33,,,,
+409,10310,Zack Wheeler,PHI,33,,,,
+410,2233,Adam Wainwright,STL,34,,,,
+411,13431,Marcus Stroman,NYM,33,,,,
+412,19374,Walker Buehler,LAD,34,,,,
+413,19522,T.J. Friedl,CIN,14,19522.0,670770.0,friedtj01,friet001
+414,10700,Ryan LaMarre,NYY,9,10700.0,534606.0,lamarry01,lamar001
+415,19864,Riley Adams,- - -,47,,,,
+416,3516,Eric Hosmer,SDP,151,3516.0,543333.0,hosmeer01,hosme001
+417,5227,Jon Jay,LAA,5,5227.0,445055.0,jayjo02,jay-j001
+418,14387,Harold Ramirez,CLE,99,14387.0,623912.0,ramirha02,ramih004
+419,20503,William Contreras,ATL,52,,,,
+420,18365,Lewin Diaz,MIA,40,,,,
+421,13325,Deven Marrero,MIA,10,13325.0,571918.0,marrede01,marrd001
+422,4962,Asdrubal Cabrera,- - -,110,,,,
+423,6547,Jordy Mercer,WSN,46,6547.0,474568.0,mercejo03,mercj002
+424,11200,Kole Calhoun,ARI,51,11200.0,594777.0,calhoko01,calhk001
+425,13770,Rob Refsnyder,MIN,51,13770.0,608701.0,refsnro01,refsr001
+426,12092,Niko Goodrum,DET,90,12092.0,592348.0,goodrni01,goodn002
+427,22164,Payton Henry,MIA,5,,,,
+428,20275,Jonathan Arauz,BOS,28,,,,
+429,6012,Didi Gregorius,PHI,103,6012.0,544369.0,gregodi01,gregd001
+430,8879,Ryan Lavarnway,CLE,9,,,,
+431,21646,Rafael Marchan,PHI,20,,,,
+432,11859,Mason Williams,NYM,17,11859.0,592863.0,willima10,willm007
+433,16448,Jacob Nottingham,- - -,15,16448.0,641924.0,nottija01,nottj001
+434,12147,Nick Ahmed,ARI,129,12147.0,605113.0,ahmedni01,ahmen001
+435,19314,Donovan Walton,SEA,24,19314.0,622268.0,waltodo01,waltd002
+436,6938,Eric Campbell,SEA,4,6938.0,493472.0,campber01,campe001
+437,23378,Jose Barrero,CIN,21,,,,
+438,16429,Jason Martin,TEX,58,16429.0,641829.0,martija03,martj009
+439,18395,Travis Blankenhorn,- - -,24,18395.0,663905.0,blanktr01,blant002
+440,14196,Andrew Velazquez,NYY,28,14196.0,623205.0,velazan01,velaa001
+441,12399,Taylor Motter,- - -,16,12399.0,600301.0,motteta01,mottt001
+442,16271,Alex Blandino,CIN,43,16271.0,607468.0,blandal01,blana002
+443,20047,Brian Miller,MIA,5,20047.0,675649.0,millebr03,millb003
+444,17216,Monte Harrison,MIA,9,17216.0,656509.0,harrimo01,harrm003
+445,19818,Josh Palacios,TOR,13,19818.0,641943.0,palacjo01,palaj001
+446,13254,Jacob Wilson,- - -,12,13254.0,607111.0,wilsoja04,wilsj005
+447,18067,Garrett Stubbs,HOU,18,18067.0,596117.0,stubbga01,stubg001
+448,10655,Rob Brantly,NYY,6,,,,
+449,14663,Chi Chi Gonzalez,COL,24,,,,
+450,21844,Braxton Garrett,MIA,8,,,,
+451,8246,Paolo Espino,WSN,35,,,,
+452,16094,Zach Thompson,MIA,27,,,,
+453,12718,Adrian Houser,MIL,28,,,,
+454,12768,Sonny Gray,CIN,26,,,,
+455,9323,Patrick Corbin,WSN,31,,,,
+456,17312,Justin Steele,CHC,20,,,,
+457,12880,Tyler Anderson,- - -,31,,,,
+458,14875,Caleb Smith,ARI,45,,,,
+459,27458,Kwang-hyun Kim,STL,27,,,,
+460,12049,Kyle Hendricks,CHC,32,,,,
+461,16162,Brandon Woodruff,MIL,30,,,,
+462,17594,Mitch Keller,PIT,24,,,,
+463,17432,Jeff Hoffman,CIN,32,,,,
+464,2539,Pete Kozma,OAK,3,2539.0,518902.0,kozmape01,kozmp001
+465,20167,Kyle Muller,ATL,9,,,,
+466,16918,Luke Weaver,ARI,13,,,,
+467,4806,Rich Hill,- - -,32,,,,
+468,15036,Chase De Jong,PIT,10,,,,
+469,11836,Taijuan Walker,NYM,31,,,,
+470,11189,Vince Velasquez,- - -,26,,,,
+471,17578,JT Brubaker,PIT,25,,,,
+472,20302,David Peterson,NYM,16,,,,
+473,6893,Johnny Cueto,SFG,22,,,,
+474,19959,Jesus Luzardo,- - -,25,,,,
+475,18769,Cody Poteet,MIA,8,,,,
+476,20631,Jordan Holloway,MIA,13,,,,
+477,25379,Sammy Long,SFG,12,,,,
+478,5486,Abraham Almonte,ATL,64,5486.0,501659.0,almonab01,almoa001
+479,18848,Yohel Pozo,TEX,21,,,,
+480,14523,Pedro Severino,BAL,113,,,,
+481,14503,Renato Nunez,DET,14,,,,
+482,19252,Cavan Biggio,TOR,79,19252.0,624415.0,biggica01,biggc002
+483,19331,Jose Rojas,LAA,61,19331.0,670351.0,rojasjo02,rojaj002
+484,19533,Taylor Jones,HOU,35,19533.0,622100.0,jonesta01,jonet005
+485,16530,Mauricio Dubon,SFG,74,,,,
+486,17321,Michael Chavis,- - -,43,17321.0,656308.0,chavimi01,chavm001
+487,12005,Nick Martini,CHC,25,12005.0,605361.0,martini02,martn003
+488,21987,Rodolfo Castro,PIT,31,21987.0,666801.0,castrro01,castr006
+489,19890,Emmanuel Rivera,KCR,29,19890.0,656896.0,riverem01,rivee001
+490,5409,Pablo Sandoval,ATL,69,5409.0,467055.0,sandopa01,sandp001
+491,17326,Cole Tucker,PIT,43,17326.0,657061.0,tuckeco01,tuckc001
+492,19293,Nick Senzel,CIN,36,19293.0,669222.0,senzeni01,senzn001
+493,18353,Daz Cameron,DET,35,18353.0,663662.0,camerda01,camed001
+494,17932,Andrew Stevenson,WSN,109,17932.0,664057.0,stevean01,steva001
+495,19931,Luke Williams,PHI,58,19931.0,663897.0,willilu01,willl001
+496,11338,Adrian Sanchez,WSN,16,,,,
+497,19960,Taylor Trammell,SEA,51,19960.0,666211.0,trammta01,tramt001
+498,16729,Brian O'Grady,SDP,32,16729.0,657434.0,ogradbr01,ograb001
+499,19346,Eli White,TEX,64,19346.0,642201.0,whiteel04,white006
+500,4062,Dexter Fowler,LAA,7,4062.0,451594.0,fowlede01,fowld001
+501,13663,Jack Lopez,BOS,7,,,,
+502,18142,Patrick Mazeika,NYM,37,,,,
+503,14453,Scott Heineman,CIN,19,14453.0,595981.0,heinesc01,heins001
+504,20321,Stuart Fairchild,ARI,12,20321.0,656413.0,faircst01,fairs001
+505,10416,Wilfredo Tovar,NYM,6,10416.0,541600.0,tovarwi01,tovaw001
+506,17478,Troy Stokes Jr.,PIT,8,,,,
+507,16593,Kevin Padlo,- - -,10,16593.0,656821.0,padloke01,padlk001
+508,4676,Charlie Morton,ATL,34,,,,
+509,13074,Yu Darvish,SDP,30,,,,
+510,13543,Blake Snell,SDP,27,,,,
+511,19278,Vladimir Gutierrez,CIN,22,,,,
+512,11156,Merrill Kelly,ARI,27,,,,
+513,18674,Jake Woodford,STL,26,,,,
+514,11682,Carlos Martinez,STL,16,,,,
+515,19800,Wil Crowe,PIT,29,,,,
+516,17859,Adbert Alzolay,CHC,30,,,,
+517,19266,Taylor Widener,ARI,23,,,,
+518,16933,Elieser Hernandez,MIA,11,,,,
+519,14975,Chad Kuhl,PIT,28,,,,
+520,24580,Josiah Gray,- - -,14,,,,
+521,8223,Brett Anderson,MIL,24,,,,
+522,16929,Touki Toussaint,ATL,11,,,,
+523,9803,Miles Mikolas,STL,9,,,,
+524,19320,Joey Lucchesi,NYM,11,,,,
+525,18699,Nick Neidert,MIA,8,,,,
+526,18510,Josh Rogers,WSN,6,,,,
+527,7410,J.A. Happ,- - -,30,,,,
+528,19225,Mitch White,LAD,21,,,,
+529,5221,Wade LeBlanc,- - -,18,,,,
+530,11490,Aaron Sanchez,SFG,9,,,,
+531,13339,Adrian Sampson,CHC,11,,,,
+532,17732,Nabil Crismatt,SDP,45,,,,
+533,17964,Tyler Gilbert,ARI,9,,,,
+534,14221,Jorge Soler,- - -,149,14221.0,624585.0,solerjo01,solej001
+535,16909,Colin Moran,PIT,99,16909.0,592567.0,moranco01,morac001
+536,15679,Rowdy Tellez,- - -,106,15679.0,642133.0,tellero01,tellr001
+537,1177,Albert Pujols,- - -,109,1177.0,405395.0,pujolal01,pujoa001
+538,3086,Mitch Moreland,OAK,81,3086.0,519048.0,morelmi01,morem001
+539,19627,Brent Rooker,MIN,58,19627.0,667670.0,rookebr01,rookb001
+540,20391,Luis Garcia,WSN,70,,,,
+541,15117,Hunter Dozier,KCR,144,15117.0,641531.0,doziehu01,dozih001
+542,15878,Miguel Andujar,NYY,45,,,,
+543,11339,Jake Marisnick,- - -,99,11339.0,545350.0,marisja01,marij002
+544,11982,Travis Shaw,- - -,84,11982.0,543768.0,shawtr01,shawt001
+545,3892,Josh Reddick,ARI,54,3892.0,502210.0,reddijo01,reddj001
+546,16446,Johneshwy Fargas,- - -,22,16446.0,641561.0,fargajo01,fargj001
+547,21618,Alec Bohm,PHI,115,21618.0,664761.0,bohmal01,bohma001
+548,14352,Lewis Brinson,MIA,89,14352.0,621446.0,brinsle01,brinl001
+549,16959,Eddy Alvarez,MIA,24,16959.0,657193.0,alvared01,alvae001
+550,19683,Mike Brosseau,TBR,57,19683.0,670712.0,brossmi01,brosm001
+551,16953,Chadwick Tromp,SFG,9,,,,
+552,10322,Danny Santana,BOS,38,10322.0,542454.0,santada01,santd001
+553,20056,Alan Trejo,COL,28,20056.0,676701.0,trejoal01,treja001
+554,14145,Daniel Robertson,MIL,50,14145.0,621002.0,roberda10,robed004
+555,15274,Mike Tauchman,- - -,75,15274.0,643565.0,tauchmi01,taucm001
+556,15585,Mike Ford,NYY,22,15585.0,645801.0,fordmi01,fordm002
+557,16925,Aramis Garcia,OAK,32,,,,
+558,5667,Steven Souza Jr.,LAD,17,,,,
+559,4866,Jarrod Dyson,- - -,102,4866.0,502481.0,dysonja01,dysoj001
+560,17023,Magneuris Sierra,MIA,123,17023.0,642423.0,sierrma01,sierm002
+561,11287,Bryan Holaday,ARI,13,,,,
+562,21127,Alejo Lopez,CIN,14,21127.0,664670.0,lopezal03,lopea005
+563,21735,Sebastian Rivero,KCR,17,,,,
+564,13854,Anthony Bemboom,LAA,8,13854.0,621532.0,bemboan01,bemba001
+565,14555,Wyatt Mathisen,ARI,23,14555.0,621500.0,mathiwy01,mathw001
+566,18482,Chris Gittens,NYY,16,18482.0,656467.0,gittech01,gittc001
+567,19878,Adam Haseley,PHI,9,19878.0,656514.0,haselad01,hasea001
+568,11470,Tony Wolters,CHC,14,,,,
+569,20242,Kevin Smith,TOR,18,20242.0,675656.0,smithke05,smitk003
+570,14388,Ronald Guzman,TEX,7,,,,
+571,12198,Jake Hager,- - -,14,12198.0,606993.0,hagerja01,hagej001
+572,19250,Trent Giambrone,CHC,5,19250.0,623508.0,giambtr01,giamt001
+573,14137,Tim Lopes,MIL,7,14137.0,621005.0,lopesti01,lopet001
+574,12174,Jorge Bonifacio,PHI,7,12174.0,593528.0,bonifjo01,bonij002
+575,14330,Nick Williams,CHW,4,14330.0,608384.0,willini01,willn001
+576,16561,Austin Gomber,COL,24,,,,
+577,18679,Freddy Peralta,MIL,29,,,,
+578,16313,Yairo Munoz,BOS,5,,,,
+579,17085,Pablo Lopez,MIA,21,,,,
+580,19909,Anderson Tejeda,TEX,5,19909.0,660731.0,tejedan01,tejea001
+581,13050,Anthony DeSclafani,SFG,34,,,,
+582,22286,Trevor Rogers,MIA,26,,,,
+583,19951,Ian Anderson,ATL,24,,,,
+584,19990,Bryse Wilson,- - -,16,,,,
+585,13781,Alex Wood,SFG,26,,,,
+586,20099,Chris Paddack,SDP,24,,,,
+587,12703,Trevor Bauer,LAD,17,,,,
+588,1890,Matt Moore,PHI,24,,,,
+589,6632,Carlos Carrasco,NYM,12,,,,
+590,6895,Chase Anderson,PHI,14,,,,
+591,13684,John Gant,- - -,39,,,,
+592,19667,Zach Reks,LAD,6,19667.0,676646.0,reksza01,reksz001
+593,19826,Riley Smith,ARI,24,,,,
+594,22175,Max Kranick,PIT,9,,,,
+595,2396,Carlos Santana,KCR,158,2396.0,467793.0,santaca01,santc002
+596,10324,Marcell Ozuna,ATL,48,10324.0,542303.0,ozunama01,ozunm001
+597,5384,Juan Lagares,LAA,112,5384.0,501571.0,lagarju01,lagaj001
+598,20036,Isaac Paredes,DET,23,20036.0,670623.0,paredis01,parei001
+599,12179,Maikel Franco,BAL,104,12179.0,596748.0,francma02,franm004
+600,11205,Adam Eaton,- - -,84,11205.0,594809.0,eatonad02,eatoa002
+601,16885,Joshua Fuentes,COL,95,16885.0,658069.0,fuentjo01,fuenj001
+602,8090,Matt Carpenter,STL,130,8090.0,572761.0,carpema01,carpm002
+603,9345,Brock Holt,TEX,77,9345.0,571788.0,holtbr01,holtb002
+604,15767,Jose Marmolejos,SEA,41,,,,
+605,13185,Orlando Arcia,- - -,36,13185.0,606115.0,arciaor01,arcio002
+606,2900,Roberto Perez,CLE,44,,,,
+607,19928,Ryan McKenna,BAL,90,19928.0,663630.0,mckenry01,mcker001
+608,11481,Henry Ramos,ARI,18,11481.0,592656.0,ramoshe01,ramoh001
+609,14477,Jake Cave,MIN,76,14477.0,595909.0,caveja01,cavej001
+610,17161,Chad Wallach,MIA,23,,,,
+611,1159,Andrew Romine,CHC,26,1159.0,461865.0,rominan01,romia001
+612,22871,Tucupita Marcano,SDP,25,22871.0,672779.0,marcatu01,marct001
+613,9892,Jay Bruce,NYY,10,9892.0,457803.0,bruceja01,brucj001
+614,19961,Colton Welker,COL,19,19961.0,666213.0,welkeco01,welkc001
+615,11241,Mike Freeman,CIN,37,11241.0,502273.0,freemmi01,freem002
+616,17098,Dustin Fowler,PIT,18,17098.0,641583.0,fowledu01,fowld002
+617,16042,Mark Payton,CIN,24,16042.0,592622.0,paytoma01,paytm001
+618,15808,Jose Godoy,SEA,16,,,,
+619,19577,Nick Heath,ARI,20,19577.0,670084.0,heathni01,heatn002
+620,19956,Mickey Moniak,PHI,21,19956.0,666160.0,moniami01,monim001
+621,14916,Jon Gray,COL,31,,,,
+622,5751,Hernan Perez,WSN,10,,,,
+623,16358,Tyler Mahle,CIN,33,,,,
+624,19952,Khalil Lee,NYM,11,19952.0,666137.0,leekh01,lee-k001
+625,18433,P.J. Higgins,CHC,9,,,,
+626,4243,Jose Lobaton,CHC,6,,,,
+627,18684,Sandy Alcantara,MIA,33,,,,
+628,11760,Drew Smyly,ATL,32,,,,
+629,14556,Max Moroff,STL,6,14556.0,621559.0,morofma01,morom001
+630,14950,Johan Camargo,ATL,15,14950.0,622666.0,camarjo01,camaj001
+631,17975,Scott Kingery,PHI,15,17975.0,664068.0,kingesc01,kings001
+632,13834,Alec Mills,CHC,33,,,,
+633,13774,Zach Eflin,PHI,18,,,,
+634,4892,Mike Moustakas,CIN,62,4892.0,519058.0,moustmi01,mousm001
+635,1433,Wilson Ramos,- - -,44,,,,
+636,8553,Gerardo Parra,WSN,53,8553.0,467827.0,parrage01,parrg001
+637,8259,Kurt Suzuki,LAA,72,,,,
+638,9112,Khris Davis,- - -,42,9112.0,501981.0,daviskh01,davik003
+639,17338,Willi Castro,DET,125,17338.0,650489.0,castrwi01,castw003
+640,16686,Jason Vosler,SFG,41,16686.0,613564.0,vosleja01,voslj001
+641,16852,John Nogowski,- - -,52,16852.0,596056.0,nogowjo01,nogoj001
+642,7927,Eric Sogard,CHC,78,7927.0,519299.0,sogarer01,sogae001
+643,19267,Will Craig,PIT,18,19267.0,643269.0,craigwi01,craiw001
+644,19858,Luis Rengifo,LAA,54,19858.0,650859.0,rengilu01,rengl001
+645,5491,Austin Romine,CHC,28,,,,
+646,18054,Sam Haggerty,SEA,35,18054.0,664059.0,haggesa01,haggs001
+647,19354,Luke Raley,LAD,33,19354.0,670042.0,raleylu01,ralel001
+648,14103,Rio Ruiz,- - -,62,14103.0,547004.0,ruizri01,ruizr002
+649,19968,Jared Oliva,PIT,20,19968.0,666931.0,olivaja01,olivj003
+650,9393,Matt Adams,COL,22,9393.0,571431.0,adamsma01,adamm002
+651,16256,Kyle Freeland,COL,25,,,,
+652,15104,Jonathan Davis,- - -,64,15104.0,641505.0,davisjo05,davij007
+653,12225,Scott Schebler,LAA,14,12225.0,594988.0,schebsc01,sches001
+654,17684,Vimael Machin,OAK,15,,,,
+655,785,Todd Frazier,PIT,13,785.0,453943.0,frazito01,frazt001
+656,19872,Greg Deichmann,CHC,14,19872.0,656364.0,deichgr01,deicg001
+657,5223,Cameron Maybin,NYM,9,5223.0,457727.0,maybica01,maybc001
+658,17425,Erick Fedde,WSN,29,,,,
+659,19392,Zach McKinstry,LAD,60,19392.0,656716.0,mckinza01,mckiz001
+660,15653,Dominic Smith,NYM,145,15653.0,642086.0,smithdo02,smitd008
+661,15170,Josh VanMeter,ARI,112,15170.0,642165.0,vanmejo01,vanmj001
+662,16542,Shed Long Jr.,SEA,34,,,,
+663,12950,Phillip Evans,PIT,76,12950.0,595943.0,evansph01,evanp001
+664,18363,Victor Robles,WSN,107,18363.0,645302.0,roblevi01,roblv001
+665,14553,Nomar Mazara,DET,50,14553.0,608577.0,mazarno01,mazan001
+666,24617,Jarren Duran,BOS,33,24617.0,680776.0,duranja01,duraj001
+667,10847,Andrelton Simmons,MIN,131,10847.0,592743.0,simmoan01,simma001
+668,17736,Richie Martin,BAL,37,17736.0,621006.0,martiri01,martr006
+669,27461,Shogo Akiyama,CIN,88,27461.0,673451.0,akiyash01,akiys001
+670,17276,Alex Jackson,- - -,52,,,,
+671,19873,Drew Ellis,ARI,28,19873.0,656403.0,ellisdr01,ellid002
+672,12284,Kevan Smith,- - -,33,,,,
+673,15994,Kean Wong,LAA,32,15994.0,642221.0,wongke01,wongk002
+674,18316,Edwin Rios,LAD,25,,,,
+675,17723,Skye Bolt,- - -,34,17723.0,621450.0,boltsk01,bolts001
+676,20536,Vidal Brujan,TBR,10,,,,
+677,15488,Antonio Senzatela,COL,28,,,,
+678,18839,Josh Naylor,CLE,69,18839.0,647304.0,naylojo01,naylj001
+679,17838,Willie Calhoun,TEX,75,17838.0,641432.0,calhowi01,calhw001
+680,13367,Stephen Piscotty,OAK,72,13367.0,572039.0,piscost01,piscs001
+681,17468,Kelvin Gutierrez,- - -,85,17468.0,642721.0,gutieke01,gutik001
+682,14593,David Bote,CHC,97,14593.0,623520.0,boteda01,boted002
+683,18136,Ka'ai Tom,- - -,48,18136.0,664789.0,tomka01,tom-k001
+684,5273,Sandy Leon,MIA,84,,,,
+685,19635,Sheldon Neuse,LAD,33,19635.0,641914.0,neusesh01,neuss001
+686,3353,Matt Joyce,PHI,43,3353.0,459964.0,joycema01,joycm001
+687,15694,Chance Sisco,- - -,28,,,,
+688,13167,Robel Garcia,HOU,47,,,,
+689,16041,Stevie Wilkerson,BAL,31,16041.0,592859.0,wilkest01,wilks001
+690,18872,Jahmai Jones,BAL,26,18872.0,663330.0,jonesja08,jonej007
+691,12970,Joe Musgrove,SDP,40,12970.0,605397.0,musgrjo01,musgj001
+692,14109,Albert Almora Jr.,NYM,47,,,,
+693,22217,Luis Campusano,SDP,11,,,,
+694,1744,Miguel Cabrera,DET,130,1744.0,408234.0,cabremi01,cabrm001
+695,19181,Zack Collins,CHW,78,,,,
+696,10815,Jurickson Profar,SDP,137,10815.0,595777.0,profaju01,profj001
+697,16442,Ryan O'Hearn,KCR,84,16442.0,656811.0,ohearry01,ohear001
+698,14968,Victor Caratini,SDP,116,14968.0,605170.0,caratvi01,carav001
+699,19958,Carter Kieboom,WSN,62,19958.0,666198.0,kieboca01,kiebc001
+700,22558,Jarred Kelenic,SEA,93,22558.0,672284.0,kelenja01,kelej001
+701,5497,Marwin Gonzalez,- - -,91,5497.0,503556.0,gonzama01,gonzm002
+702,17922,Isan Diaz,MIA,89,,,,
+703,15194,Jake Bauers,- - -,115,15194.0,641343.0,bauerja01,bauej001
+704,13369,Erik Gonzalez,PIT,71,,,,
+705,20003,Keston Hiura,MIL,61,20003.0,669374.0,hiurake01,hiurk001
+706,19562,Zack Short,DET,61,19562.0,670097.0,shortza01,shorz001
+707,15124,Tim Locastro,- - -,64,15124.0,641796.0,locasti01,locat001
+708,20233,Gilberto Celestino,MIN,23,20233.0,665482.0,celesgi01,celeg001
+709,20078,Evan White,SEA,30,20078.0,657108.0,whiteev01,white005
+710,19948,Cristian Pache,ATL,22,19948.0,665506.0,pachecr01,pachc001
+711,18881,Curtis Terry,TEX,13,18881.0,663799.0,terrycu01,terrc001
+712,3411,Drew Butera,LAA,12,,,,
+713,3137,Max Scherzer,- - -,30,,,,
+714,15608,Willians Astudillo,MIN,73,15608.0,553902.0,astudwi01,astuw001
+715,13744,David Dahl,TEX,63,13744.0,621311.0,dahlda01,dahld001
+716,15998,Cody Bellinger,LAD,95,15998.0,641355.0,bellico01,bellc002
+717,15490,Justin Williams,STL,51,15490.0,642211.0,williju02,willj006
+718,12984,Jackie Bradley Jr.,MIL,134,,,,
+719,14567,Franchy Cordero,BOS,48,14567.0,614173.0,cordefr02,cordf003
+720,13324,Ildemaro Vargas,- - -,34,13324.0,545121.0,vargail01,vargi001
+721,15983,Clint Frazier,NYY,66,15983.0,640449.0,frazicl01,frazc001
+722,15271,Austin Wynns,BAL,45,,,,
+723,12977,Michael Perez,PIT,70,,,,
+724,16404,Domingo Leyba,- - -,34,16404.0,642736.0,leybado01,leybd001
+725,14885,Pat Valaika,BAL,91,14885.0,642162.0,valaipa01,valap001
+726,19514,Andrew Knizner,STL,63,,,,
+727,14818,JaCoby Jones,DET,36,14818.0,592444.0,jonesja07,jonej006
+728,24655,Owen Miller,CLE,60,24655.0,680911.0,milleow01,millo002
+729,14942,Andrew Knapp,PHI,62,14942.0,595284.0,knappan01,knapa001
+730,12907,Gregory Polanco,PIT,107,12907.0,570256.0,polangr01,polag001
+731,11936,Joe Panik,- - -,95,11936.0,605412.0,panikjo01,panij002
